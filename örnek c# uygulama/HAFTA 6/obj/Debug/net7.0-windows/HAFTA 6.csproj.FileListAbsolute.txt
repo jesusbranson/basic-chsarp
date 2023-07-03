@@ -1,0 +1,17 @@
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\bin\Debug\net7.0-windows\HAFTA 6.exe
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\bin\Debug\net7.0-windows\HAFTA 6.deps.json
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\bin\Debug\net7.0-windows\HAFTA 6.runtimeconfig.json
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\bin\Debug\net7.0-windows\HAFTA 6.dll
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\bin\Debug\net7.0-windows\HAFTA 6.pdb
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\HAFTA 6.csproj.AssemblyReference.cache
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\HAFTA_6.Form1.resources
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\HAFTA 6.csproj.GenerateResource.cache
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\HAFTA 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\HAFTA 6.AssemblyInfoInputs.cache
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\HAFTA 6.AssemblyInfo.cs
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\HAFTA 6.csproj.CoreCompileInputs.cache
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\HAFTA 6.dll
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\refint\HAFTA 6.dll
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\HAFTA 6.pdb
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\HAFTA 6.genruntimeconfig.cache
+C:\Users\cengiz\source\repos\HAFTA 6\HAFTA 6\obj\Debug\net7.0-windows\ref\HAFTA 6.dll
